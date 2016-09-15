@@ -1,0 +1,16 @@
+---
+Villager:
+  items:
+    STEAK:
+      amount: 5
+      cost: 1
+    LOG:
+      amount: 64
+      cost: 5
+    IRON_INGOT:
+      amount: 64
+      cost: 10
+    DIAMOND:
+      amount: 1
+      cost: 10
+...

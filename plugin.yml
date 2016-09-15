@@ -1,0 +1,6 @@
+  name: VillagerTrade
+  main: thebigsmileXD\VillagerTrade\Main
+  version: 0.1.0
+  api: 1.0.0
+  authors: [thebigsmileXD]
+  description: "Trade with villagers by tapping!"
